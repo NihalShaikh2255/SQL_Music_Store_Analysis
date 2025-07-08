@@ -1,7 +1,8 @@
 # SQL_Music_Store_Analysis
 Digital Music Store Analysis using SQL
 
-Project Objective: Music Store Data Analysis using SQL
+Project Objective: 
+Music Store Data Analysis using SQL
 The primary objective of this SQL project is to perform comprehensive data analysis on a digital music store database to derive actionable business insights. By writing and executing structured SQL queries, we aim to answer business-critical questions across three levels of difficulty—Easy, Moderate, and Advanced.
 
 The project focuses on:
