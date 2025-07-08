@@ -26,3 +26,9 @@ Marketing and Promotions: Targeting top-performing cities and countries for camp
 Customer Relationship Management: Rewarding high-value customers.
 
 Artist and Content Strategy: Understanding popular genres and artist performance to optimize the music catalog.
+
+
+
+Database and Tools
+Postgre SQL
+PgAdmin4
